@@ -1,10 +1,10 @@
 package http
 
 import (
-	"ginexamples"
 	"log"
 	"net/http"
 
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples"
 	"github.com/gin-gonic/gin"
 )
 

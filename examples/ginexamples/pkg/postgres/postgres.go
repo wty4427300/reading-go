@@ -2,8 +2,8 @@ package postgres
 
 import (
 	"fmt"
-	"ginexamples"
 
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 )

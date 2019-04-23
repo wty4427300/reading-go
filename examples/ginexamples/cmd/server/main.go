@@ -1,13 +1,14 @@
 package main
 
 import (
-	"ginexamples/pkg/config"
-	"ginexamples/pkg/http"
-	"ginexamples/pkg/postgres"
-	"ginexamples/pkg/service/userservice"
 	"io"
 	"log"
 	"os"
+
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples/pkg/config"
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples/pkg/http"
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples/pkg/postgres"
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples/pkg/service/userservice"
 )
 
 func main() {

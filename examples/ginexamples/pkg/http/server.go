@@ -1,9 +1,9 @@
 package http
 
 import (
-	"ginexamples"
 	"log"
 
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples"
 	"github.com/gin-gonic/gin"
 )
 

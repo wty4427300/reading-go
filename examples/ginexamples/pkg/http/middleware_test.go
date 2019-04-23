@@ -3,13 +3,13 @@ package http
 import (
 	"bytes"
 	"errors"
-	"ginexamples"
-	"ginexamples/pkg/mock"
 	"log"
 	"net/http"
 	"net/http/httptest"
 	"testing"
 
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples"
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples/pkg/mock"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 )

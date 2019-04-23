@@ -1,6 +1,6 @@
 package mock
 
-import "ginexamples"
+import "github.com/developer-learning/reading-go/blob/master/examples/ginexamples"
 
 type UserRepository struct {
 	StoreFn        func(user *ginexamples.User) error

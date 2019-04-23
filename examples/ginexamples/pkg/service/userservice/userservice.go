@@ -1,9 +1,8 @@
 package userservice
 
 import (
-	"ginexamples"
-	"ginexamples/pkg/auth"
-
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples"
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples/pkg/auth"
 	"github.com/pkg/errors"
 )
 

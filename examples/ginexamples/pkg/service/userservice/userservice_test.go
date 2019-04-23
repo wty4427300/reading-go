@@ -1,10 +1,10 @@
 package userservice
 
 import (
-	"ginexamples"
-	"ginexamples/pkg/mock"
 	"testing"
 
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples"
+	"github.com/developer-learning/reading-go/blob/master/examples/ginexamples/pkg/mock"
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
